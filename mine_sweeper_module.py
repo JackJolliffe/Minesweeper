@@ -1,4 +1,4 @@
-#new_minesweeper_module.py
+#new_mine_sweeper_module.py
 import pygame
 from math import floor
 
