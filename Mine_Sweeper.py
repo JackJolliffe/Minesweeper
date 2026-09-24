@@ -1,7 +1,7 @@
-#new class based minesweeper.py
+#new class based Mine_Sweeper.py
 import pygame
 import math
-import minesweeper_module as mm
+import mine_sweeper_module as mm
 from field_module import Field
 from mouse import Mouse
 from keyboard import Keyboard
