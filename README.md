@@ -1,16 +1,16 @@
-# Minesweeper
+# Mine Sweeper
 
 This version is not a perfect clone of the original game: the grid size options, bomb density options, and graphics are not the same.
 
 The rules are almost the same as the original, with the exception that you cannot "quick click" in this version ("quick click" being when you can click on a number to reveal all neighbouring tiles that do not have flags on them).
 
-Several years ago I produced a version of Minesweeper that had no size buttons or density buttons. The old version was not made with classes, so I made it from scratch using them.
+Several years ago I produced a version of Mine Sweeper that had no size buttons or density buttons. The old version was not made with classes, so I made it from scratch using them.
 
-![Minesweeper running](example.png)
+![Mine Sweeper running](example.png)
 
 ## How to Run the Code
 
-`Minesweeper.py` is the main program and is the file to run.
+`Mine_Sweeper.py` is the main program and is the file to run.
 
 All of the following files must be in the same folder in order to run:
 
@@ -18,8 +18,8 @@ All of the following files must be in the same folder in order to run:
 - `asset_names_and_locations.txt`
 - `field_module.py`
 - `keyboard.py`
-- `Minesweeper.py`
-- `minesweeper_module.py`
+- `Mine_Sweeper.py`
+- `mine_Sweeper_module.py`
 - `mouse.py`
 
 ## Controls
